@@ -2,6 +2,10 @@
 
 ## Noteify is an artificially intelligent currency detection app made for the visually impaired to check whether they have been handed the right amount of money and thereby, ensuring that they have not been cheated upon, giving the output as a computer-generated audio, having basic UI for better User-Experience. 
 
+## Check out the demo below!
+# SORRY, THIS DOES NOT WORK ANYMORE, THE PACKAGES HAVE DEPRECIATED :(
+<a href="https://youtu.be/P4t4FfayMzE"> Youtube Video (DEMO) </a>
+
 This is a project done by me and my partners <a href= "https://github.com/Ashniz24"> Ashna Nizam </a>, <a href= "https://github.com/bensam02"> Ben Sam </a>, <a href= "https://github.com/Mannu7789"> Mannu Thomas </a> and <a href= "https://github.com/PeterChageth"> CJ Peter </a> and the app was developed using the Flutter framework.
 
 The main modules used are:
@@ -38,10 +42,10 @@ The backend comprises of the tflite package using a tflite model along with the 
 8. Optional(To change your app icon to ours, you have to change the minmap folders in your *android/app/src/main/res/* to the ones in the repo).
 9. Run the *main.dart* after connecting to your mobile.
 
+
+<a href="https://youtu.be/Zv6dlV7W8cw"> How to clone tutorial </a>
+
+
 ## Check out CONTRIBUTING.MD to learn how to contribute.
-
-## Check out the demo below!
-
-<a href="https://www.youtube.com/embed/kRQMssuoE0k"> Youtube Video </a>
 
 ### Note: This project is time being not updated upto the present versions of the packages used, so cloning might not work unless you update the code correspondingly, sorry😅
